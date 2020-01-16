@@ -3,6 +3,8 @@
     {
       "first_name": "Fulano",
       "last_name": "Beltrano",
+      "email": "test@closeer.com.br",
+      "password": "Closeer2019",
       "auth": {
         "token": "yRQYnWzskCZUxPwaQupWkiUzKELZ49eM7oWxAQK_ZXw",
         "expires_in": 3600
